@@ -1,0 +1,30 @@
+
+body {
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    
+    color: white;
+    margin: 0;
+}
+
+hr {
+    border-top: 1px solid white;
+}
+
+.container {
+    padding: 0 5%;
+}
+
+
+
+
+
+.info {
+    display: grid;
+    grid-gap: 2%;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.info span {
+    color: #86c232;
+    font-size: 20px;
+}
