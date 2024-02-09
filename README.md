@@ -11,9 +11,13 @@ This project aims to provide educational organizations with a comprehensive Resu
 **Dynamic User Interfaces**: Crafted dynamic and responsive user interfaces using HTML, CSS, and JavaScript, providing a seamless and intuitive user experience.
 
 ## Technologies Used
+
 Backend: PHP
+
 Database: SQL
+
 Frontend: HTML, CSS, JavaScript
+
 <img src="project screenshots/1.png" alt="drawing"/>
 <img src="project screenshots/2.png" alt="drawing"/>
 <img src="project screenshots/3.png" alt="drawing"/>
